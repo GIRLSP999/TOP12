@@ -390,7 +390,7 @@ function removeRankedTrainee(trainee) {
   return false;
 }
 
-const currentURL = "https://sakuraimiu.github.io/PlanetGirls999/";
+const currentURL = "https://girlsp999.github.io/top12/";
 // Serializes the ranking into a string and appends that to the current URL
 function generateShareLink() {
   let shareCode = ranking.map(function (trainee) {
